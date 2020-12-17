@@ -1,0 +1,54 @@
+/*Devi Puspitasari*/
+/*TI-2E*/
+body {
+
+  width: 1100px; 
+  margin: 20px auto; 
+}
+
+main {
+  display: flex;
+}
+
+.header,
+.navigasi,
+.konten,
+.footer {
+  margin-bottom: 5px;
+  padding: 15px 0;
+}
+
+.header {
+  width: 100%;
+  height: auto;
+  background: #FFEBCD;
+  text-align: center;
+}
+
+.navigasi {
+  width: 100%;
+  height: auto;
+  background: #FFA07A;
+  text-align: center;
+}
+
+
+.sidebar {
+  width: 0%;
+  background: #B0C4DE;
+}
+
+.konten {
+  width: 100%;
+  background: #FFC0CB;
+}
+
+.footer {
+  width: 100%;
+  background: #FFEBCD;
+  text-align: center;
+}
+
+.text_content{
+  text-indent: 60px;
+}
